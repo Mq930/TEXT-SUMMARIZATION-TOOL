@@ -28,3 +28,4 @@ To make this system user-friendly, the project integrates Gradio, a Python libra
 Overall, this task demonstrates how deep learning and NLP can work together to transform the way we interact with information. By automating the process of summarizing lengthy documents, this tool saves time, reduces cognitive load, and enhances productivity—making it a valuable assistant for students, researchers, and professionals alike.
 
 # OUTPUT
+<img width="1280" height="724" alt="Image" src="https://github.com/user-attachments/assets/ec87d631-9919-4aac-ad5d-ba6bd9fd78f9" />
